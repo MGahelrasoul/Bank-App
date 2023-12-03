@@ -2,6 +2,8 @@
 
 Landing page for a modern banking app showcasing clean components and beautiful graphics based on Figma design.
 
+See a live version [here](https://hoobk.tech/)
+
 ## Installation
 
 First, install dependencies:
